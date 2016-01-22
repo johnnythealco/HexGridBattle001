@@ -24,13 +24,13 @@ public class TurnManager : MonoBehaviour {
 
 		if(!PlayersTurn)
 		{
-			Dictionary<Unit, List<Vector3>> moves = new Dictionary<Unit, List<Vector3>> ();
+			Dictionary<FlatHexPoint, FlatHexPoint> moves = new Dictionary<FlatHexPoint, FlatHexPoint> ();
 			var enemies = BattleManager.GetEnemyPositions ();
 			foreach(var enemy in enemies)
 			{
 				var player = BattleManager.GetClosestPlayer (enemy);
 				var move = BattleManager.GetMaxMove (enemy, player);
-				moves.Add (BattleManager.GetUnitAtPoint (enemy), BattleManager.GetWaypoints (enemy, BattleManager.GetMaxMove (enemy, player)));
+				moves.Add (enemy, move);
 			}
 			StartCoroutine (MoveQueue (moves));
 			PlayersTurn = true;
@@ -40,18 +40,19 @@ public class TurnManager : MonoBehaviour {
 	}
 
 
-	protected IEnumerator MoveQueue (Dictionary<Unit, List<Vector3>> moveQueue)
+	protected IEnumerator MoveQueue (Dictionary<FlatHexPoint, FlatHexPoint> moveQueue)
 	{
 			
 		var units = moveQueue.Keys.ToList ();
 
 	
-		while(!moveQueue.IsEmpty())
+		while(!units.IsEmpty())
 		{
 				if(!Moving)
 				{
-				units.First().Move (moveQueue [units.First()]);
-				moveQueue.Remove (units.First ());
+				BattleManager.MoveUnitFromPointToPoint (units.First (), moveQueue [units.First ()]);
+//				units.First().Move (moveQueue [units.First()]);
+//				moveQueue.Remove (units.First ());
 				units.Remove (units.First ());
 				}
 			yield return null;

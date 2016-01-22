@@ -204,7 +204,7 @@ public class TerrainBehaviour : GridBehaviour<FlatHexPoint>
 
 	#region Unit Selection & Movement
 
-	private void MoveUnitFromPointToPoint (FlatHexPoint start, FlatHexPoint end) 
+	public void MoveUnitFromPointToPoint (FlatHexPoint start, FlatHexPoint end) 
 	{
 		terrainGrid [end].unit = terrainGrid[start].unit;														//register the unit at the new location
 		terrainGrid [end].IsAccessible = false;																	//Mark the cell as occupited
