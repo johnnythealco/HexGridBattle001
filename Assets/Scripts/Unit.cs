@@ -11,7 +11,8 @@ public class Unit : MonoBehaviour
 	public int damage = 50;
 	public float attackRange = 1;
 	public Animator animator; 
-//	public Affilation type;
+	public TurnManager turnmanager; 
+
 
 	
 	private float inverseMoveTime;
@@ -42,6 +43,7 @@ public class Unit : MonoBehaviour
 
 	protected IEnumerator SmoothMovement (List<Vector3> waypoints)
 	{
+		turnmanager.Moving = true; 
 		animator.SetBool ("Walking", true);
 		foreach (var waypoint in waypoints)
 		{
@@ -58,6 +60,7 @@ public class Unit : MonoBehaviour
 			}
 		}
 		animator.SetBool ("Walking", false);
+		turnmanager.Moving = false;
 
 	}
 
@@ -66,7 +69,7 @@ public class Unit : MonoBehaviour
 		animator.SetTrigger("Striking");
 	}
 
-//	public enum Affilation {Enemy, Player} ;
+
 
 
 

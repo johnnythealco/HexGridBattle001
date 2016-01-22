@@ -128,6 +128,7 @@ public class TerrainBehaviour : GridBehaviour<FlatHexPoint>
 
 		terrainGrid [point].unit = unit;
 		terrainGrid [point].IsAccessible = false;
+		unit.turnmanager = turn;
 	}
 
 	private void CreateEnemy (FlatHexPoint point)
@@ -139,7 +140,13 @@ public class TerrainBehaviour : GridBehaviour<FlatHexPoint>
 
 		terrainGrid [point].unit = unit;
 		terrainGrid [point].IsAccessible = false;
+		unit.turnmanager = turn;
 
+	}
+
+	public Unit GetUnitAtPoint(FlatHexPoint point)
+	{
+		return terrainGrid [point].unit;
 	}
 
 	#endregion
@@ -166,7 +173,7 @@ public class TerrainBehaviour : GridBehaviour<FlatHexPoint>
 			case CellContents.Empty:
 				if (somethingSelected && AvailableMoves.ContainsKey (point))
 				{
-					MoveUnitToPoint (point);
+					MoveUnitFromPointToPoint (selectedPoint, point);
 					EndAction ();
 					turn.PlayersTurn = false;
 
@@ -197,27 +204,32 @@ public class TerrainBehaviour : GridBehaviour<FlatHexPoint>
 
 	#region Unit Selection & Movement
 
-	private void MoveUnitToPoint (FlatHexPoint point)
+	private void MoveUnitFromPointToPoint (FlatHexPoint start, FlatHexPoint end) 
 	{
+		terrainGrid [end].unit = terrainGrid[start].unit;														//register the unit at the new location
+		terrainGrid [end].IsAccessible = false;																	//Mark the cell as occupited
+		terrainGrid[end].contents = terrainGrid[start].contents;
 
-		RegisterUnitAtPoint (point);
-		UnRegisterUnitAtPoint (selectedPoint);
 
-		var path = GetGridPath(selectedPoint, point); 					//Get the grid path to the target
+		terrainGrid [start].unit.Move (GetWaypoints (start, end));
 
-		MoveUnitAlongPath (path);
+		terrainGrid[start].unit = null;																					//unregister the unit from their last location
+		terrainGrid[start].IsAccessible = true;																	//Make the now empty cell accessible
+		terrainGrid[start].contents = CellContents.Empty;
 	}
 
-	private void MoveUnitAlongPath(List<FlatHexPoint> path )
+
+
+	public List<Vector3> GetWaypoints(FlatHexPoint start, FlatHexPoint end)
 	{
+		var path = GetGridPath(start, end); 														//Get the grid path to the target
 		List<Vector3> waypoints = new List<Vector3> ();										//Create an empty of waypoints
 
 		foreach(var waypoint in path)
 		{
 			waypoints.Add (Map [waypoint]);														//Add each step on the pat to the list of waypoints
 		}
-		unitSelected.Move (waypoints);																//Tell the unit to move allong the list of waypoints
-
+		return waypoints;
 	}
 
 	public void SelectUnitAtPoint (FlatHexPoint point)
@@ -230,21 +242,7 @@ public class TerrainBehaviour : GridBehaviour<FlatHexPoint>
 
 	}
 
-	public void RegisterUnitAtPoint(FlatHexPoint point)
-	{
 
-		terrainGrid [point].unit = unitSelected;														//register the unit at the new location
-		terrainGrid [point].IsAccessible = false;														//Mark the cell as occupited
-		terrainGrid[point].contents = terrainGrid[selectedPoint].contents;
-
-	}
-
-	public void UnRegisterUnitAtPoint(FlatHexPoint point)
-	{
-		terrainGrid[selectedPoint].unit = null;														//unregister the unit from their last location
-		terrainGrid[selectedPoint].IsAccessible = true;											//Make the now empty cell accessible
-		terrainGrid[selectedPoint].contents = CellContents.Empty;
-	}
 
 	#endregion
 
@@ -376,40 +374,42 @@ public class TerrainBehaviour : GridBehaviour<FlatHexPoint>
 		return result;
 	}
 
-	public void AdvanceOnTarget (FlatHexPoint source, FlatHexPoint target)  
+	public FlatHexPoint GetMaxMove (FlatHexPoint source, FlatHexPoint target)  
 	{
-		
+		//Get the best complete path to the target
 		var path = GetGridPath (source, target);
-		SelectUnitAtPoint (source);
-		GetAvailableMoves (source);
 
+		//Get a kvp of all available moves and the cost
+		var range =  Algorithms.GetPointsInRangeCost<TerrainCell, FlatHexPoint>
+													(terrainGrid, source,
+														cell => cell.IsAccessible,
+														(p, q) => (terrainGrid [p].Cost + terrainGrid [q].Cost / 2.0f),
+														terrainGrid [source].unit.movement);
 
-		UnRegisterUnitAtPoint (selectedPoint);
-
+		//Start point
 		FlatHexPoint waypoint = source;
 
+		//itterate through every step in the path that is in range 
+		//Return the point with the highest cost
+	
 		foreach (var step in path)
 		{
 			float maxMoveCost = 0.0f;
-			terrainGrid [step].Color = Color.blue;
-
-			if (AvailableMoves.Keys.Contains (step))
+			if (range.Keys.Contains (step))
 			{
 				terrainGrid [step].Color = Color.blue;
-				float thisMoveCost = AvailableMoves [step];
-				if (thisMoveCost > maxMoveCost)
-				{
-					waypoint = step; 
-					maxMoveCost = thisMoveCost;
-				}
+				float thisMoveCost = range [step];
+
+					if (thisMoveCost > maxMoveCost)
+					{
+						waypoint = step; 
+						maxMoveCost = thisMoveCost;
+					}
 			}
 		}
 
-		RegisterUnitAtPoint (waypoint);
-		MoveUnitToPoint (waypoint);
 		terrainGrid [waypoint].Color = Color.red;
-		EndAction ();
-
+		return waypoint;
 	}
 
 	public List<FlatHexPoint> GetEnemyPositions()
