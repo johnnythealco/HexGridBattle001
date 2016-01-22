@@ -1,0 +1,2917 @@
+fileFormatVersion: 2
+guid: 2fdfce7412e08d142a7dda989761d388
+timeCreated: 1453044896
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Heroes of Might and Magic 3 - Red Dragon_0
+    21300002: PC Computer - Heroes of Might and Magic 3 - Red Dragon_1
+    21300004: PC Computer - Heroes of Might and Magic 3 - Red Dragon_2
+    21300006: PC Computer - Heroes of Might and Magic 3 - Red Dragon_3
+    21300008: PC Computer - Heroes of Might and Magic 3 - Red Dragon_4
+    21300010: PC Computer - Heroes of Might and Magic 3 - Red Dragon_5
+    21300012: PC Computer - Heroes of Might and Magic 3 - Red Dragon_6
+    21300014: PC Computer - Heroes of Might and Magic 3 - Red Dragon_7
+    21300016: PC Computer - Heroes of Might and Magic 3 - Red Dragon_8
+    21300018: PC Computer - Heroes of Might and Magic 3 - Red Dragon_9
+    21300020: PC Computer - Heroes of Might and Magic 3 - Red Dragon_10
+    21300022: PC Computer - Heroes of Might and Magic 3 - Red Dragon_11
+    21300024: PC Computer - Heroes of Might and Magic 3 - Red Dragon_12
+    21300026: PC Computer - Heroes of Might and Magic 3 - Red Dragon_13
+    21300028: PC Computer - Heroes of Might and Magic 3 - Red Dragon_14
+    21300030: PC Computer - Heroes of Might and Magic 3 - Red Dragon_15
+    21300032: PC Computer - Heroes of Might and Magic 3 - Red Dragon_16
+    21300034: PC Computer - Heroes of Might and Magic 3 - Red Dragon_17
+    21300036: PC Computer - Heroes of Might and Magic 3 - Red Dragon_18
+    21300038: PC Computer - Heroes of Might and Magic 3 - Red Dragon_19
+    21300040: PC Computer - Heroes of Might and Magic 3 - Red Dragon_20
+    21300042: PC Computer - Heroes of Might and Magic 3 - Red Dragon_21
+    21300044: PC Computer - Heroes of Might and Magic 3 - Red Dragon_22
+    21300046: PC Computer - Heroes of Might and Magic 3 - Red Dragon_23
+    21300048: PC Computer - Heroes of Might and Magic 3 - Red Dragon_24
+    21300050: PC Computer - Heroes of Might and Magic 3 - Red Dragon_25
+    21300052: PC Computer - Heroes of Might and Magic 3 - Red Dragon_26
+    21300054: PC Computer - Heroes of Might and Magic 3 - Red Dragon_27
+    21300056: PC Computer - Heroes of Might and Magic 3 - Red Dragon_28
+    21300058: PC Computer - Heroes of Might and Magic 3 - Red Dragon_29
+    21300060: PC Computer - Heroes of Might and Magic 3 - Red Dragon_30
+    21300062: PC Computer - Heroes of Might and Magic 3 - Red Dragon_31
+    21300064: PC Computer - Heroes of Might and Magic 3 - Red Dragon_32
+    21300066: PC Computer - Heroes of Might and Magic 3 - Red Dragon_33
+    21300068: PC Computer - Heroes of Might and Magic 3 - Red Dragon_34
+    21300070: PC Computer - Heroes of Might and Magic 3 - Red Dragon_35
+    21300072: PC Computer - Heroes of Might and Magic 3 - Red Dragon_36
+    21300074: PC Computer - Heroes of Might and Magic 3 - Red Dragon_37
+    21300076: PC Computer - Heroes of Might and Magic 3 - Red Dragon_38
+    21300078: PC Computer - Heroes of Might and Magic 3 - Red Dragon_39
+    21300080: PC Computer - Heroes of Might and Magic 3 - Red Dragon_40
+    21300082: PC Computer - Heroes of Might and Magic 3 - Red Dragon_41
+    21300084: PC Computer - Heroes of Might and Magic 3 - Red Dragon_42
+    21300086: PC Computer - Heroes of Might and Magic 3 - Red Dragon_43
+    21300088: PC Computer - Heroes of Might and Magic 3 - Red Dragon_44
+    21300090: PC Computer - Heroes of Might and Magic 3 - Red Dragon_45
+    21300092: PC Computer - Heroes of Might and Magic 3 - Red Dragon_46
+    21300094: PC Computer - Heroes of Might and Magic 3 - Red Dragon_47
+    21300096: PC Computer - Heroes of Might and Magic 3 - Red Dragon_48
+    21300098: PC Computer - Heroes of Might and Magic 3 - Red Dragon_49
+    21300100: PC Computer - Heroes of Might and Magic 3 - Red Dragon_50
+    21300102: PC Computer - Heroes of Might and Magic 3 - Red Dragon_51
+    21300104: PC Computer - Heroes of Might and Magic 3 - Red Dragon_52
+    21300106: PC Computer - Heroes of Might and Magic 3 - Red Dragon_53
+    21300108: PC Computer - Heroes of Might and Magic 3 - Red Dragon_54
+    21300110: PC Computer - Heroes of Might and Magic 3 - Red Dragon_55
+    21300112: PC Computer - Heroes of Might and Magic 3 - Red Dragon_56
+    21300114: PC Computer - Heroes of Might and Magic 3 - Red Dragon_57
+    21300116: PC Computer - Heroes of Might and Magic 3 - Red Dragon_58
+    21300118: PC Computer - Heroes of Might and Magic 3 - Red Dragon_59
+    21300120: PC Computer - Heroes of Might and Magic 3 - Red Dragon_60
+    21300122: PC Computer - Heroes of Might and Magic 3 - Red Dragon_61
+    21300124: PC Computer - Heroes of Might and Magic 3 - Red Dragon_62
+    21300126: PC Computer - Heroes of Might and Magic 3 - Red Dragon_63
+    21300128: PC Computer - Heroes of Might and Magic 3 - Red Dragon_64
+    21300130: PC Computer - Heroes of Might and Magic 3 - Red Dragon_65
+    21300132: PC Computer - Heroes of Might and Magic 3 - Red Dragon_66
+    21300134: PC Computer - Heroes of Might and Magic 3 - Red Dragon_67
+    21300136: PC Computer - Heroes of Might and Magic 3 - Red Dragon_68
+    21300138: PC Computer - Heroes of Might and Magic 3 - Red Dragon_69
+    21300140: PC Computer - Heroes of Might and Magic 3 - Red Dragon_70
+    21300142: PC Computer - Heroes of Might and Magic 3 - Red Dragon_71
+    21300144: PC Computer - Heroes of Might and Magic 3 - Red Dragon_72
+    21300146: PC Computer - Heroes of Might and Magic 3 - Red Dragon_73
+    21300148: PC Computer - Heroes of Might and Magic 3 - Red Dragon_74
+    21300150: PC Computer - Heroes of Might and Magic 3 - Red Dragon_75
+    21300152: PC Computer - Heroes of Might and Magic 3 - Red Dragon_76
+    21300154: PC Computer - Heroes of Might and Magic 3 - Red Dragon_77
+    21300156: PC Computer - Heroes of Might and Magic 3 - Red Dragon_78
+    21300158: PC Computer - Heroes of Might and Magic 3 - Red Dragon_79
+    21300160: PC Computer - Heroes of Might and Magic 3 - Red Dragon_80
+    21300162: PC Computer - Heroes of Might and Magic 3 - Red Dragon_81
+    21300164: PC Computer - Heroes of Might and Magic 3 - Red Dragon_82
+    21300166: PC Computer - Heroes of Might and Magic 3 - Red Dragon_83
+    21300168: PC Computer - Heroes of Might and Magic 3 - Red Dragon_84
+    21300170: PC Computer - Heroes of Might and Magic 3 - Red Dragon_85
+    21300172: PC Computer - Heroes of Might and Magic 3 - Red Dragon_86
+    21300174: PC Computer - Heroes of Might and Magic 3 - Red Dragon_87
+    21300176: PC Computer - Heroes of Might and Magic 3 - Red Dragon_88
+    21300178: PC Computer - Heroes of Might and Magic 3 - Red Dragon_89
+    21300180: PC Computer - Heroes of Might and Magic 3 - Red Dragon_90
+    21300182: PC Computer - Heroes of Might and Magic 3 - Red Dragon_91
+    21300184: PC Computer - Heroes of Might and Magic 3 - Red Dragon_92
+    21300186: PC Computer - Heroes of Might and Magic 3 - Red Dragon_93
+    21300188: PC Computer - Heroes of Might and Magic 3 - Red Dragon_94
+    21300190: PC Computer - Heroes of Might and Magic 3 - Red Dragon_95
+    21300192: PC Computer - Heroes of Might and Magic 3 - Red Dragon_96
+    21300194: PC Computer - Heroes of Might and Magic 3 - Red Dragon_97
+    21300196: PC Computer - Heroes of Might and Magic 3 - Red Dragon_98
+    21300198: PC Computer - Heroes of Might and Magic 3 - Red Dragon_99
+    21300200: PC Computer - Heroes of Might and Magic 3 - Red Dragon_100
+    21300202: PC Computer - Heroes of Might and Magic 3 - Red Dragon_101
+    21300204: PC Computer - Heroes of Might and Magic 3 - Red Dragon_102
+    21300206: PC Computer - Heroes of Might and Magic 3 - Red Dragon_103
+    21300208: PC Computer - Heroes of Might and Magic 3 - Red Dragon_104
+    21300210: PC Computer - Heroes of Might and Magic 3 - Red Dragon_105
+    21300212: PC Computer - Heroes of Might and Magic 3 - Red Dragon_106
+    21300214: PC Computer - Heroes of Might and Magic 3 - Red Dragon_107
+    21300216: PC Computer - Heroes of Might and Magic 3 - Red Dragon_108
+    21300218: PC Computer - Heroes of Might and Magic 3 - Red Dragon_109
+    21300220: PC Computer - Heroes of Might and Magic 3 - Red Dragon_110
+    21300222: PC Computer - Heroes of Might and Magic 3 - Red Dragon_111
+    21300224: PC Computer - Heroes of Might and Magic 3 - Red Dragon_112
+    21300226: PC Computer - Heroes of Might and Magic 3 - Red Dragon_113
+    21300228: PC Computer - Heroes of Might and Magic 3 - Red Dragon_114
+    21300230: PC Computer - Heroes of Might and Magic 3 - Red Dragon_115
+    21300232: PC Computer - Heroes of Might and Magic 3 - Red Dragon_116
+    21300234: PC Computer - Heroes of Might and Magic 3 - Red Dragon_117
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 866
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.246513, y: -29.070557}
+        - {x: 30.246513, y: -25.070557}
+        - {x: 36.246513, y: -14.070557}
+        - {x: 36.246513, y: 38.929443}
+        - {x: 26.246513, y: 43.929443}
+        - {x: -7.7534866, y: 43.929443}
+        - {x: -19.753487, y: 38.929443}
+        - {x: -35.753487, y: 16.929443}
+        - {x: -35.753487, y: -33.070557}
+        - {x: -33.753487, y: -43.070557}
+        - {x: 14.246513, y: -43.070557}
+        - {x: 28.246513, y: -37.070557}
+        - {x: 24.246513, y: -29.070557}
+        - {x: 23.246513, y: -30.070557}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 868
+        width: 91
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.0139465, y: 42.51703}
+        - {x: -19.013947, y: 37.51703}
+        - {x: -35.013947, y: 12.517029}
+        - {x: -35.013947, y: -42.48297}
+        - {x: 29.986053, y: -42.48297}
+        - {x: 37.986053, y: -32.48297}
+        - {x: 37.986053, y: 33.51703}
+        - {x: 34.986053, y: 42.51703}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 867
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.367432, y: 43.223267}
+        - {x: -35.36743, y: 20.223267}
+        - {x: -35.36743, y: -39.776733}
+        - {x: -34.36743, y: -42.776733}
+        - {x: 27.632568, y: -42.776733}
+        - {x: 36.63257, y: -27.776733}
+        - {x: 36.63257, y: 42.223267}
+        - {x: 33.63257, y: 43.223267}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 865
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.134888, y: -29.364319}
+        - {x: 33.134888, y: -25.364319}
+        - {x: 35.134888, y: -21.364319}
+        - {x: 35.134888, y: 27.635681}
+        - {x: 29.134888, y: 40.63568}
+        - {x: 24.134888, y: 44.63568}
+        - {x: 0.1348877, y: 44.63568}
+        - {x: -2.8651123, y: 25.635681}
+        - {x: 1.1348877, y: 19.635681}
+        - {x: -3.8651123, y: 25.635681}
+        - {x: -1.8651123, y: 33.63568}
+        - {x: -9.865112, y: 41.63568}
+        - {x: -34.865112, y: 25.635681}
+        - {x: -34.865112, y: -38.36432}
+        - {x: -33.865112, y: -41.36432}
+        - {x: -22.865112, y: -42.36432}
+        - {x: 13.134888, y: -42.36432}
+        - {x: 27.134888, y: -36.36432}
+        - {x: 26.134888, y: -32.36432}
+        - {x: 23.134888, y: -29.364319}
+        - {x: 17.134888, y: -28.364319}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 866
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.755798, y: -29.070557}
+        - {x: 21.755798, y: -30.070557}
+        - {x: 23.755798, y: -30.070557}
+        - {x: 31.755798, y: -28.070557}
+        - {x: 35.7558, y: -24.070557}
+        - {x: 35.7558, y: 27.929443}
+        - {x: 27.755798, y: 22.929443}
+        - {x: 22.755798, y: 19.929443}
+        - {x: 25.755798, y: 21.929443}
+        - {x: 28.755798, y: 24.929443}
+        - {x: 35.7558, y: 39.929443}
+        - {x: 22.755798, y: 43.929443}
+        - {x: -4.2442017, y: 43.929443}
+        - {x: -6.2442017, y: 40.929443}
+        - {x: -2.2442017, y: 30.929443}
+        - {x: -5.2442017, y: 24.929443}
+        - {x: -5.2442017, y: 22.929443}
+        - {x: -3.2442017, y: 20.929443}
+        - {x: -1.2442017, y: 20.929443}
+        - {x: -1.2442017, y: 17.929443}
+        - {x: 0.75579834, y: 15.929443}
+        - {x: -1.2442017, y: 16.929443}
+        - {x: -1.2442017, y: 17.929443}
+        - {x: -5.2442017, y: 21.929443}
+        - {x: -5.2442017, y: 26.929443}
+        - {x: -3.2442017, y: 28.929443}
+        - {x: -3.2442017, y: 32.929443}
+        - {x: -7.2442017, y: 40.929443}
+        - {x: -35.2442, y: 26.929443}
+        - {x: -35.2442, y: -43.070557}
+        - {x: 11.755798, y: -43.070557}
+        - {x: 24.755798, y: -38.070557}
+        - {x: 26.755798, y: -36.070557}
+        - {x: 26.755798, y: -33.070557}
+        - {x: 23.755798, y: -30.070557}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 866
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.464355, y: -30.070557}
+        - {x: 25.464355, y: -30.070557}
+        - {x: 33.464355, y: -22.070557}
+        - {x: 32.464355, y: -19.070557}
+        - {x: 36.464355, y: -19.070557}
+        - {x: 36.464355, y: 39.929443}
+        - {x: 28.464355, y: 43.929443}
+        - {x: 10.464355, y: 43.929443}
+        - {x: 4.4643555, y: 40.929443}
+        - {x: 2.4643555, y: 35.929443}
+        - {x: -0.53564453, y: 24.929443}
+        - {x: 1.4643555, y: 32.929443}
+        - {x: -15.535645, y: 42.929443}
+        - {x: -34.535645, y: 21.929443}
+        - {x: -34.535645, y: -37.070557}
+        - {x: -32.535645, y: -43.070557}
+        - {x: 15.464355, y: -43.070557}
+        - {x: 29.464355, y: -37.070557}
+        - {x: 27.464355, y: -33.070557}
+        - {x: 24.464355, y: -30.070557}
+        - {x: 18.464355, y: -29.070557}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 865
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.744202, y: 44.63568}
+        - {x: 8.744202, y: 40.63568}
+        - {x: 1.7442017, y: 30.635681}
+        - {x: 0.74420166, y: 33.63568}
+        - {x: -1.2557983, y: 35.63568}
+        - {x: -13.255798, y: 35.63568}
+        - {x: -38.2558, y: 19.635681}
+        - {x: -38.2558, y: -42.36432}
+        - {x: 40.7442, y: -42.36432}
+        - {x: 40.7442, y: 36.63568}
+        - {x: 33.7442, y: 44.63568}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 865
+        width: 154
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.88684, y: 45.13568}
+        - {x: 22.88684, y: 45.13568}
+        - {x: 19.88684, y: 43.13568}
+        - {x: 23.88684, y: 38.13568}
+        - {x: 19.88684, y: 26.135681}
+        - {x: 22.88684, y: 22.135681}
+        - {x: 24.88684, y: 20.135681}
+        - {x: 20.88684, y: 23.135681}
+        - {x: 17.88684, y: 31.135681}
+        - {x: 21.88684, y: 33.13568}
+        - {x: 21.88684, y: 37.13568}
+        - {x: 19.88684, y: 39.13568}
+        - {x: 5.886841, y: 41.13568}
+        - {x: -7.113159, y: 41.13568}
+        - {x: -60.11316, y: 21.135681}
+        - {x: -60.11316, y: -35.86432}
+        - {x: -30.11316, y: -43.86432}
+        - {x: 54.88684, y: -43.86432}
+        - {x: 59.88684, y: -42.86432}
+        - {x: 62.88684, y: -38.86432}
+        - {x: 62.88684, y: 34.13568}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 868
+        width: 162
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.62634, y: 26.517029}
+        - {x: 64.62634, y: 45.51703}
+        - {x: -64.37366, y: 45.51703}
+        - {x: -64.37366, y: -46.48297}
+        - {x: 64.62634, y: -46.48297}
+        - {x: 64.62634, y: 18.517029}
+        - {x: 61.626343, y: 21.517029}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 868
+        width: 162
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.77832, y: 39.01703}
+        - {x: 35.77832, y: 45.01703}
+        - {x: -38.22168, y: 45.01703}
+        - {x: -57.22168, y: 29.017029}
+        - {x: -64.22168, y: 23.017029}
+        - {x: -64.22168, y: -27.982971}
+        - {x: -56.22168, y: -44.98297}
+        - {x: 55.77832, y: -44.98297}
+        - {x: 65.77832, y: -37.98297}
+        - {x: 65.77832, y: 22.017029}
+        - {x: 63.77832, y: 27.017029}
+        - {x: 56.77832, y: 27.017029}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 868
+        width: 149
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.775146, y: 26.517029}
+        - {x: 52.775146, y: 25.517029}
+        - {x: 48.775146, y: 22.517029}
+        - {x: 50.775146, y: 44.51703}
+        - {x: -27.224854, y: 44.51703}
+        - {x: -59.224854, y: 11.517029}
+        - {x: -59.224854, y: -4.482971}
+        - {x: -43.224854, y: -6.482971}
+        - {x: -37.224854, y: -4.482971}
+        - {x: -59.224854, y: -23.482971}
+        - {x: -59.224854, y: -29.482971}
+        - {x: -41.224854, y: -31.482971}
+        - {x: -52.224854, y: -38.48297}
+        - {x: -52.224854, y: -44.48297}
+        - {x: 42.775146, y: -44.48297}
+        - {x: 60.775146, y: -20.482971}
+        - {x: 60.775146, y: 23.517029}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 865
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.772095, y: 42.63568}
+        - {x: 32.772095, y: 45.63568}
+        - {x: 14.772095, y: 45.63568}
+        - {x: 11.772095, y: 41.63568}
+        - {x: 11.772095, y: 33.63568}
+        - {x: 7.7720947, y: 29.635681}
+        - {x: 7.7720947, y: 27.635681}
+        - {x: 9.772095, y: 21.635681}
+        - {x: 5.7720947, y: 30.635681}
+        - {x: 9.772095, y: 31.635681}
+        - {x: 9.772095, y: 34.63568}
+        - {x: 7.7720947, y: 38.63568}
+        - {x: -19.227905, y: 38.63568}
+        - {x: -46.227905, y: 6.635681}
+        - {x: -48.227905, y: -9.364319}
+        - {x: -45.227905, y: -12.364319}
+        - {x: -39.227905, y: -5.364319}
+        - {x: -34.227905, y: -14.364319}
+        - {x: -31.227905, y: -13.364319}
+        - {x: -28.227905, y: -10.364319}
+        - {x: -44.227905, y: -27.364319}
+        - {x: -48.227905, y: -32.36432}
+        - {x: -33.227905, y: -38.36432}
+        - {x: -30.227905, y: -33.36432}
+        - {x: -28.227905, y: -32.36432}
+        - {x: -30.227905, y: -34.36432}
+        - {x: -34.227905, y: -42.36432}
+        - {x: -31.227905, y: -45.36432}
+        - {x: 29.772095, y: -45.36432}
+        - {x: 50.772095, y: -29.364319}
+        - {x: 50.772095, y: 31.635681}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 898
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.654297, y: 27.830994}
+        - {x: -23.654297, y: -26.169006}
+        - {x: 24.345703, y: -26.169006}
+        - {x: 24.345703, y: 27.830994}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 926
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 17.5}
+        - {x: -17.5, y: 14.5}
+        - {x: -17.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 13.5}
+        - {x: 13.5, y: 17.5}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 933
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 931
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 911
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 911
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_18
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 908
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 911
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 911
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 911
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 896
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 896
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 896
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 891
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 896
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 898
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 896
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 896
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 702
+        width: 124
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.6697693, y: 45.24652}
+        - {x: -20.33023, y: 36.24652}
+        - {x: -49.33023, y: 1.246521}
+        - {x: -49.33023, y: -44.75348}
+        - {x: 50.66977, y: -44.75348}
+        - {x: 50.66977, y: 44.24652}
+        - {x: 49.66977, y: 45.24652}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 699
+        width: 153
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.734879, y: 50.365112}
+        - {x: -60.73488, y: 41.365112}
+        - {x: -60.73488, y: -43.634888}
+        - {x: -58.73488, y: -48.634888}
+        - {x: 40.26512, y: -48.634888}
+        - {x: 61.26512, y: -42.634888}
+        - {x: 61.26512, y: 50.365112}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 710
+        width: 161
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.824036, y: -20.403076}
+        - {x: 64.824036, y: -17.403076}
+        - {x: 64.824036, y: 24.596924}
+        - {x: 57.824036, y: 41.596924}
+        - {x: 39.824036, y: 50.596924}
+        - {x: -30.175964, y: 50.596924}
+        - {x: -60.175964, y: 45.596924}
+        - {x: -64.175964, y: 33.596924}
+        - {x: -64.175964, y: -32.403076}
+        - {x: -55.175964, y: -34.403076}
+        - {x: -34.175964, y: -34.403076}
+        - {x: -62.175964, y: -36.403076}
+        - {x: -64.175964, y: -41.403076}
+        - {x: -64.175964, y: -42.403076}
+        - {x: -62.175964, y: -44.403076}
+        - {x: -35.175964, y: -49.403076}
+        - {x: -7.1759644, y: -49.403076}
+        - {x: 44.824036, y: -34.403076}
+        - {x: 64.824036, y: -26.403076}
+        - {x: 64.824036, y: -23.403076}
+      - - {x: -45.175964, y: -14.403076}
+        - {x: -43.175964, y: -16.403076}
+        - {x: -40.175964, y: -15.403076}
+        - {x: -40.175964, y: -12.403076}
+        - {x: -42.175964, y: -10.403076}
+        - {x: -45.175964, y: -11.403076}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 720
+        width: 164
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.120148, y: -30.465088}
+        - {x: 66.12015, y: -27.465088}
+        - {x: 66.12015, y: -18.465088}
+        - {x: 58.120148, y: -11.465088}
+        - {x: 49.120148, y: -5.465088}
+        - {x: 66.12015, y: 2.534912}
+        - {x: 66.12015, y: 18.534912}
+        - {x: 57.120148, y: 32.534912}
+        - {x: 39.120148, y: 29.534912}
+        - {x: 35.120148, y: 26.534912}
+        - {x: 33.120148, y: 24.534912}
+        - {x: 28.120148, y: 18.534912}
+        - {x: 27.120148, y: 21.534912}
+        - {x: 34.120148, y: 26.534912}
+        - {x: 36.120148, y: 28.534912}
+        - {x: 36.120148, y: 32.534912}
+        - {x: 32.120148, y: 46.534912}
+        - {x: 19.120148, y: 48.534912}
+        - {x: -64.87985, y: 48.534912}
+        - {x: -64.87985, y: 40.534912}
+        - {x: -58.879852, y: 21.534912}
+        - {x: -64.87985, y: -5.465088}
+        - {x: -64.87985, y: -47.465088}
+        - {x: 56.120148, y: -47.465088}
+        - {x: 62.120148, y: -37.465088}
+        - {x: 56.120148, y: -32.465088}
+        - {x: 51.120148, y: -30.465088}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_34
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 722
+        width: 166
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.4364, y: -30.877502}
+        - {x: 67.4364, y: -27.877502}
+        - {x: 67.4364, y: 36.122498}
+        - {x: 64.4364, y: 39.122498}
+        - {x: 9.436401, y: 39.122498}
+        - {x: 6.4364014, y: 38.122498}
+        - {x: -65.5636, y: 3.1224976}
+        - {x: -65.5636, y: -38.877502}
+        - {x: 53.4364, y: -38.877502}
+        - {x: 49.4364, y: -30.877502}
+        - {x: 46.4364, y: -28.877502}
+        - {x: 43.4364, y: -27.877502}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 709
+        width: 166
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.78369, y: -16.6969}
+        - {x: 46.78369, y: -16.6969}
+        - {x: 53.78369, y: -15.696899}
+        - {x: 58.78369, y: -17.6969}
+        - {x: 66.78369, y: -17.6969}
+        - {x: 66.78369, y: 41.3031}
+        - {x: 57.78369, y: 48.3031}
+        - {x: 19.783691, y: 48.3031}
+        - {x: 7.7836914, y: 43.3031}
+        - {x: -66.21631, y: -0.6968994}
+        - {x: -66.21631, y: -5.6968994}
+        - {x: -61.21631, y: -6.6968994}
+        - {x: -39.21631, y: -6.6968994}
+        - {x: -33.21631, y: -7.6968994}
+        - {x: -30.216309, y: -7.6968994}
+        - {x: -34.21631, y: -10.696899}
+        - {x: -34.21631, y: -12.696899}
+        - {x: -62.21631, y: -19.6969}
+        - {x: -65.21631, y: -22.6969}
+        - {x: -41.21631, y: -46.6969}
+        - {x: 1.7836914, y: -46.6969}
+        - {x: 56.78369, y: -26.6969}
+        - {x: 56.78369, y: -20.6969}
+        - {x: 53.78369, y: -18.6969}
+        - {x: 48.78369, y: -16.6969}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 710
+        width: 146
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.693787, y: 48.596924}
+        - {x: -37.693787, y: 43.596924}
+        - {x: -57.693787, y: 5.596924}
+        - {x: -57.693787, y: -36.403076}
+        - {x: -55.693787, y: -42.403076}
+        - {x: -33.693787, y: -47.403076}
+        - {x: 32.306213, y: -47.403076}
+        - {x: 59.306213, y: -27.403076}
+        - {x: 59.306213, y: 46.596924}
+        - {x: 52.306213, y: 48.596924}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 707
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.870483, y: -20.784485}
+        - {x: 47.870483, y: -18.784485}
+        - {x: 51.870483, y: -16.784485}
+        - {x: 53.870483, y: -7.784485}
+        - {x: 53.870483, y: 0.21551514}
+        - {x: 45.870483, y: 4.215515}
+        - {x: 52.870483, y: 15.215515}
+        - {x: 47.870483, y: 42.215515}
+        - {x: 39.870483, y: 46.215515}
+        - {x: 29.870483, y: 46.215515}
+        - {x: 22.870483, y: 45.215515}
+        - {x: 18.870483, y: 39.215515}
+        - {x: 14.870483, y: 31.215515}
+        - {x: 17.870483, y: 38.215515}
+        - {x: 16.870483, y: 41.215515}
+        - {x: 12.870483, y: 46.215515}
+        - {x: -0.1295166, y: 45.215515}
+        - {x: -7.1295166, y: 41.215515}
+        - {x: -19.129517, y: 29.215515}
+        - {x: -26.129517, y: 21.215515}
+        - {x: -29.129517, y: 6.215515}
+        - {x: -28.129517, y: 2.2155151}
+        - {x: -25.129517, y: 1.2155151}
+        - {x: -54.129517, y: -7.784485}
+        - {x: -54.129517, y: -38.784485}
+        - {x: -22.129517, y: -45.784485}
+        - {x: 32.870483, y: -45.784485}
+        - {x: 48.870483, y: -36.784485}
+        - {x: 53.870483, y: -25.784485}
+        - {x: 53.870483, y: -22.784485}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 707
+        width: 131
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5791, y: -35.784485}
+        - {x: 51.5791, y: 30.215515}
+        - {x: 37.5791, y: 43.215515}
+        - {x: 28.579102, y: 43.215515}
+        - {x: 26.579102, y: 41.215515}
+        - {x: 15.579102, y: 43.215515}
+        - {x: -0.42089844, y: 43.215515}
+        - {x: -29.420898, y: 14.215515}
+        - {x: -22.420898, y: -11.784485}
+        - {x: -18.420898, y: -11.784485}
+        - {x: -15.420898, y: -10.784485}
+        - {x: -22.420898, y: -14.784485}
+        - {x: -26.420898, y: -19.784485}
+        - {x: -52.4209, y: -17.784485}
+        - {x: -52.4209, y: -42.784485}
+        - {x: -40.4209, y: -42.784485}
+        - {x: -17.420898, y: -41.784485}
+        - {x: -13.420898, y: -40.784485}
+        - {x: -4.4208984, y: -42.784485}
+        - {x: 29.579102, y: -42.784485}
+        - {x: 44.5791, y: -33.784485}
+        - {x: 42.5791, y: -31.784485}
+        - {x: 49.5791, y: -37.784485}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 704
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.04492, y: 7.8341064}
+        - {x: 42.04492, y: 8.834106}
+        - {x: 38.04492, y: 9.834106}
+        - {x: 29.044922, y: 9.834106}
+        - {x: 37.04492, y: 12.834106}
+        - {x: 41.04492, y: 17.834106}
+        - {x: 43.04492, y: 25.834106}
+        - {x: 43.04492, y: 27.834106}
+        - {x: 25.044922, y: 41.834106}
+        - {x: -19.955078, y: 41.834106}
+        - {x: -42.95508, y: -10.165894}
+        - {x: -42.95508, y: -40.165894}
+        - {x: 18.044922, y: -40.165894}
+        - {x: 34.04492, y: -28.165894}
+        - {x: 40.04492, y: -21.165894}
+        - {x: 43.04492, y: -16.165894}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 704
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.572876, y: 42.334106}
+        - {x: -17.427124, y: 42.334106}
+        - {x: -38.427124, y: 13.334106}
+        - {x: -38.427124, y: -8.665894}
+        - {x: -35.427124, y: -13.665894}
+        - {x: -33.427124, y: -15.665894}
+        - {x: -31.427124, y: -15.665894}
+        - {x: -29.427124, y: -13.665894}
+        - {x: -31.427124, y: -16.665894}
+        - {x: -38.427124, y: -25.665894}
+        - {x: -38.427124, y: -40.665894}
+        - {x: 21.572876, y: -40.665894}
+        - {x: 36.572876, y: -31.665894}
+        - {x: 38.572876, y: -22.665894}
+        - {x: 38.572876, y: 39.334106}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 712
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.22168, y: 43.18451}
+        - {x: -37.22168, y: 26.18451}
+        - {x: -40.22168, y: 8.184509}
+        - {x: -40.22168, y: -42.81549}
+        - {x: 42.77832, y: -42.81549}
+        - {x: 42.77832, y: 16.18451}
+        - {x: 26.77832, y: 43.18451}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 714
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.265137, y: 43.272095}
+        - {x: -33.265137, y: 17.272095}
+        - {x: -35.265137, y: 8.272095}
+        - {x: -35.265137, y: -24.727905}
+        - {x: -16.265137, y: -41.727905}
+        - {x: 35.734863, y: -41.727905}
+        - {x: 35.734863, y: 40.272095}
+        - {x: 27.734863, y: 43.272095}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_43
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 510
+        width: 220
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.32092, y: 51.33722}
+        - {x: -87.32092, y: 49.33722}
+        - {x: -87.32092, y: 36.33722}
+        - {x: -72.32092, y: 14.337219}
+        - {x: -82.32092, y: 2.3372192}
+        - {x: -84.32092, y: -0.66278076}
+        - {x: -68.32092, y: -49.66278}
+        - {x: -7.320923, y: -49.66278}
+        - {x: 16.679077, y: -44.66278}
+        - {x: 76.67908, y: -49.66278}
+        - {x: 88.67908, y: -49.66278}
+        - {x: 88.67908, y: 2.3372192}
+        - {x: 62.679077, y: 51.33722}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_44
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 515
+        width: 172
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.24341, y: 53.306213}
+        - {x: -68.24341, y: 35.306213}
+        - {x: -68.24341, y: -47.693787}
+        - {x: -67.24341, y: -51.693787}
+        - {x: 69.75659, y: -51.693787}
+        - {x: 69.75659, y: 53.306213}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_45
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 510
+        width: 224
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.6969, y: 33.83722}
+        - {x: 57.6969, y: 32.83722}
+        - {x: 59.6969, y: 32.83722}
+        - {x: 63.6969, y: 33.83722}
+        - {x: 62.6969, y: 51.83722}
+        - {x: 53.6969, y: 62.83722}
+        - {x: -2.3031006, y: 62.83722}
+        - {x: -89.3031, y: 45.83722}
+        - {x: -89.3031, y: -25.16278}
+        - {x: -68.3031, y: -61.16278}
+        - {x: 88.6969, y: -61.16278}
+        - {x: 88.6969, y: -11.162781}
+        - {x: 57.6969, y: 31.83722}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_46
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 503
+        width: 184
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.76514, y: -42.21939}
+        - {x: 73.76514, y: 54.78061}
+        - {x: 71.76514, y: 59.78061}
+        - {x: -0.23486328, y: 59.78061}
+        - {x: -73.23486, y: 38.78061}
+        - {x: -73.23486, y: -46.21939}
+        - {x: -64.23486, y: -60.21939}
+        - {x: 27.765137, y: -60.21939}
+        - {x: 71.76514, y: -52.21939}
+        - {x: 71.76514, y: -47.21939}
+        - {x: 67.76514, y: -38.21939}
+        - {x: 69.76514, y: -42.21939}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_47
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 631
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 631
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_49
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 634
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 515
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.1387596, y: 47.306213}
+        - {x: -4.8612404, y: 40.306213}
+        - {x: 3.1387596, y: 33.306213}
+        - {x: 2.1387596, y: 27.306213}
+        - {x: 2.1387596, y: 24.306213}
+        - {x: 6.1387596, y: 19.306213}
+        - {x: 7.1387596, y: 16.306213}
+        - {x: -1.8612404, y: 28.306213}
+        - {x: 2.1387596, y: 30.306213}
+        - {x: 2.1387596, y: 32.306213}
+        - {x: -1.8612404, y: 36.306213}
+        - {x: -7.8612404, y: 37.306213}
+        - {x: -25.86124, y: 25.306213}
+        - {x: -30.86124, y: 20.306213}
+        - {x: -40.86124, y: -2.6937866}
+        - {x: -40.86124, y: -12.693787}
+        - {x: -37.86124, y: -13.693787}
+        - {x: -34.86124, y: -11.693787}
+        - {x: -39.86124, y: -16.693787}
+        - {x: -39.86124, y: -18.693787}
+        - {x: -35.86124, y: -25.693787}
+        - {x: -32.86124, y: -25.693787}
+        - {x: -30.86124, y: -24.693787}
+        - {x: -29.86124, y: -21.693787}
+        - {x: -29.86124, y: -18.693787}
+        - {x: -29.86124, y: -20.693787}
+        - {x: -30.86124, y: -23.693787}
+        - {x: -32.86124, y: -25.693787}
+        - {x: -35.86124, y: -38.693787}
+        - {x: -33.86124, y: -40.693787}
+        - {x: -31.86124, y: -40.693787}
+        - {x: -30.86124, y: -45.693787}
+        - {x: 43.13876, y: -45.693787}
+        - {x: 43.13876, y: 35.306213}
+        - {x: 32.13876, y: 47.306213}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 515
+        width: 126
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.383728, y: 48.806213}
+        - {x: -29.616272, y: 31.806213}
+        - {x: -48.616272, y: -2.1937866}
+        - {x: -48.616272, y: -27.193787}
+        - {x: -41.616272, y: -42.193787}
+        - {x: -18.616272, y: -47.193787}
+        - {x: 39.383728, y: -47.193787}
+        - {x: 51.383728, y: -37.193787}
+        - {x: 51.383728, y: 24.806213}
+        - {x: 39.383728, y: 48.806213}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 518
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.035645, y: 15.187592}
+        - {x: 53.035645, y: 16.187592}
+        - {x: 58.035645, y: 26.187592}
+        - {x: 50.035645, y: 45.18759}
+        - {x: 7.0356445, y: 45.18759}
+        - {x: -20.964355, y: 31.187592}
+        - {x: -52.964355, y: 12.187592}
+        - {x: -57.964355, y: -1.8124084}
+        - {x: -57.964355, y: -13.812408}
+        - {x: -55.964355, y: -12.812408}
+        - {x: -56.964355, y: -19.812408}
+        - {x: -57.964355, y: -41.81241}
+        - {x: -45.964355, y: -44.81241}
+        - {x: 53.035645, y: -44.81241}
+        - {x: 58.035645, y: -26.812408}
+        - {x: 58.035645, y: 15.187592}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_53
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 515
+        width: 163
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.218597, y: -46.193787}
+        - {x: 38.218597, y: -43.193787}
+        - {x: 39.218597, y: -38.193787}
+        - {x: 36.218597, y: -34.193787}
+        - {x: 39.218597, y: -37.193787}
+        - {x: 39.218597, y: -40.193787}
+        - {x: 41.218597, y: -42.193787}
+        - {x: 56.218597, y: -46.193787}
+        - {x: 65.2186, y: -46.193787}
+        - {x: 65.2186, y: 48.806213}
+        - {x: -13.781403, y: 48.806213}
+        - {x: -64.7814, y: 29.806213}
+        - {x: -64.7814, y: 15.806213}
+        - {x: -44.781403, y: 0.8062134}
+        - {x: -39.781403, y: 1.8062134}
+        - {x: -50.781403, y: -4.1937866}
+        - {x: -57.781403, y: -8.193787}
+        - {x: -56.781403, y: -11.193787}
+        - {x: -52.781403, y: -11.193787}
+        - {x: -41.781403, y: -21.193787}
+        - {x: -38.781403, y: -20.193787}
+        - {x: -20.781403, y: -27.193787}
+        - {x: -30.781403, y: -26.193787}
+        - {x: -32.781403, y: -33.193787}
+        - {x: -27.781403, y: -46.193787}
+        - {x: -7.7814026, y: -46.193787}
+        - {x: 1.2185974, y: -45.193787}
+        - {x: 14.218597, y: -46.193787}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 505
+        width: 186
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.128662, y: -17.631775}
+        - {x: 58.128662, y: -8.631775}
+        - {x: 69.12866, y: -27.631775}
+        - {x: 74.12866, y: -28.631775}
+        - {x: 74.12866, y: 18.368225}
+        - {x: 67.12866, y: 49.368225}
+        - {x: 53.128662, y: 51.368225}
+        - {x: -33.871338, y: 51.368225}
+        - {x: -73.87134, y: 32.368225}
+        - {x: -73.87134, y: 22.368225}
+        - {x: -67.87134, y: 22.368225}
+        - {x: -58.871338, y: 7.368225}
+        - {x: -50.871338, y: 6.368225}
+        - {x: -73.87134, y: 2.368225}
+        - {x: -73.87134, y: -7.631775}
+        - {x: -55.871338, y: -27.631775}
+        - {x: -39.871338, y: -49.631775}
+        - {x: 21.128662, y: -49.631775}
+        - {x: 52.128662, y: -44.631775}
+        - {x: 74.12866, y: -40.631775}
+        - {x: 74.12866, y: -33.631775}
+        - {x: 67.12866, y: -24.631775}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 613
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 629
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 629
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 510
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.820923, y: -45.66278}
+        - {x: 50.820923, y: -30.66278}
+        - {x: 52.820923, y: -27.66278}
+        - {x: 52.820923, y: 48.33722}
+        - {x: 19.820923, y: 48.33722}
+        - {x: 13.820923, y: 44.33722}
+        - {x: 8.820923, y: 37.33722}
+        - {x: 4.820923, y: 33.33722}
+        - {x: 3.8209229, y: 33.33722}
+        - {x: 6.820923, y: 36.33722}
+        - {x: 8.820923, y: 39.33722}
+        - {x: -4.179077, y: 47.33722}
+        - {x: -52.179077, y: 16.33722}
+        - {x: -52.179077, y: -27.66278}
+        - {x: -21.179077, y: -45.66278}
+        - {x: -6.179077, y: -45.66278}
+        - {x: -6.179077, y: -43.66278}
+        - {x: -7.179077, y: -40.66278}
+        - {x: 14.820923, y: -45.66278}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 515
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.498413, y: 29.306213}
+        - {x: 44.498413, y: 31.306213}
+        - {x: 38.498413, y: 45.306213}
+        - {x: 10.498413, y: 45.306213}
+        - {x: 7.498413, y: 41.306213}
+        - {x: 3.498413, y: 31.306213}
+        - {x: 3.498413, y: 34.306213}
+        - {x: 2.498413, y: 37.306213}
+        - {x: -11.501587, y: 42.306213}
+        - {x: -42.501587, y: 8.306213}
+        - {x: -42.501587, y: -9.693787}
+        - {x: -41.501587, y: -11.693787}
+        - {x: -36.501587, y: -10.693787}
+        - {x: -33.501587, y: -8.693787}
+        - {x: -37.501587, y: -12.693787}
+        - {x: -42.501587, y: -15.693787}
+        - {x: -42.501587, y: -43.693787}
+        - {x: 39.498413, y: -43.693787}
+        - {x: 44.498413, y: -26.693787}
+        - {x: 44.498413, y: 20.306213}
+        - {x: 41.498413, y: 23.306213}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 510
+        width: 129
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.079102, y: 47.33722}
+        - {x: -51.0791, y: 6.337219}
+        - {x: -51.0791, y: -6.662781}
+        - {x: -48.0791, y: -5.662781}
+        - {x: -44.0791, y: -16.66278}
+        - {x: -27.079102, y: -44.66278}
+        - {x: 41.9209, y: -44.66278}
+        - {x: 52.9209, y: -35.66278}
+        - {x: 52.9209, y: 47.33722}
+      - - {x: 46.9209, y: 44.33722}
+        - {x: 48.9209, y: 42.33722}
+        - {x: 51.9209, y: 43.33722}
+        - {x: 51.9209, y: 46.33722}
+        - {x: 50.9209, y: 47.33722}
+        - {x: 46.9209, y: 47.33722}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 621
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 352
+        width: 136
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.675194, y: 22.917053}
+        - {x: 49.675194, y: 37.917053}
+        - {x: 35.675194, y: 45.917053}
+        - {x: -18.324806, y: 45.917053}
+        - {x: -54.324806, y: 3.9170532}
+        - {x: -54.324806, y: -44.082947}
+        - {x: -37.324806, y: -45.082947}
+        - {x: 43.675194, y: -45.082947}
+        - {x: 53.675194, y: -39.082947}
+        - {x: 53.675194, y: 20.917053}
+        - {x: 49.675194, y: 22.917053}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 354
+        width: 161
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.951164, y: -9.495361}
+        - {x: 52.951164, y: -11.495361}
+        - {x: 55.951164, y: -8.495361}
+        - {x: 63.951164, y: 2.5046387}
+        - {x: 63.951164, y: 45.50464}
+        - {x: -22.048836, y: 45.50464}
+        - {x: -64.048836, y: 28.504639}
+        - {x: -64.048836, y: -28.495361}
+        - {x: -48.048836, y: -46.49536}
+        - {x: 60.951164, y: -46.49536}
+        - {x: 63.951164, y: -14.495361}
+        - {x: 63.951164, y: -10.495361}
+        - {x: 60.951164, y: -9.495361}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 356
+        width: 167
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.31473, y: 47.592255}
+        - {x: -66.31473, y: 32.592255}
+        - {x: -65.31473, y: 31.592255}
+        - {x: -50.314728, y: 10.592255}
+        - {x: -35.314728, y: -0.40774536}
+        - {x: -28.314728, y: -2.4077454}
+        - {x: -47.314728, y: -4.4077454}
+        - {x: -49.314728, y: -6.4077454}
+        - {x: -49.314728, y: -8.407745}
+        - {x: -47.314728, y: -10.407745}
+        - {x: -49.314728, y: -16.407745}
+        - {x: -48.314728, y: -20.407745}
+        - {x: -42.314728, y: -20.407745}
+        - {x: -35.314728, y: -25.407745}
+        - {x: -28.314728, y: -26.407745}
+        - {x: -34.314728, y: -26.407745}
+        - {x: -42.314728, y: -23.407745}
+        - {x: -47.314728, y: -23.407745}
+        - {x: -49.314728, y: -26.407745}
+        - {x: -47.314728, y: -42.407745}
+        - {x: -29.314728, y: -47.407745}
+        - {x: 57.685272, y: -47.407745}
+        - {x: 67.68527, y: -35.407745}
+        - {x: 67.68527, y: 30.592255}
+        - {x: 56.685272, y: 47.592255}
+      - - {x: -60.314728, y: -5.4077454}
+        - {x: -60.314728, y: -11.407745}
+        - {x: -51.314728, y: -11.407745}
+        - {x: -51.314728, y: -5.4077454}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 354
+        width: 186
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.05505, y: 52.00464}
+        - {x: -74.05505, y: -47.99536}
+        - {x: -61.055054, y: -51.99536}
+        - {x: 65.94495, y: -51.99536}
+        - {x: 74.94495, y: -45.99536}
+        - {x: 74.94495, y: 13.004639}
+        - {x: 1.9449463, y: 52.00464}
+      - - {x: -63.055054, y: -3.9953613}
+        - {x: -65.05505, y: -5.9953613}
+        - {x: -65.05505, y: -7.9953613}
+        - {x: -63.055054, y: -9.995361}
+        - {x: -57.055054, y: -9.995361}
+        - {x: -55.055054, y: -7.9953613}
+        - {x: -55.055054, y: -5.9953613}
+        - {x: -57.055054, y: -3.9953613}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 352
+        width: 154
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.001526, y: 44.417053}
+        - {x: -59.001526, y: 36.417053}
+        - {x: -60.001526, y: 31.417053}
+        - {x: -60.001526, y: 28.417053}
+        - {x: -58.001526, y: 27.417053}
+        - {x: -48.001526, y: 12.417053}
+        - {x: -41.001526, y: 9.417053}
+        - {x: -29.001526, y: 0.41705322}
+        - {x: -26.001526, y: -0.5829468}
+        - {x: -23.001526, y: -0.5829468}
+        - {x: -39.001526, y: -2.5829468}
+        - {x: -55.001526, y: -8.582947}
+        - {x: -52.001526, y: -13.582947}
+        - {x: -37.001526, y: -19.582947}
+        - {x: -25.001526, y: -23.582947}
+        - {x: -23.001526, y: -23.582947}
+        - {x: -26.001526, y: -23.582947}
+        - {x: -53.001526, y: -34.582947}
+        - {x: -55.001526, y: -40.582947}
+        - {x: -52.001526, y: -43.582947}
+        - {x: 44.998474, y: -43.582947}
+        - {x: 62.998474, y: -28.582947}
+        - {x: 62.998474, y: 43.417053}
+        - {x: 61.998474, y: 44.417053}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 389
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.274414, y: 18.287598}
+        - {x: -17.725586, y: 18.287598}
+        - {x: -17.725586, y: -7.7124023}
+        - {x: -15.725586, y: -15.712402}
+        - {x: 18.274414, y: -15.712402}
+        - {x: 18.274414, y: 9.287598}
+        - {x: 11.274414, y: 16.287598}
+      - - {x: -17.725586, y: 3.2875977}
+        - {x: -17.725586, y: -10.712402}
+        - {x: -14.725586, y: -9.712402}
+        - {x: -11.725586, y: -5.7124023}
+        - {x: -11.725586, y: -1.7124023}
+        - {x: -16.725586, y: 3.2875977}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 430
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 351
+        width: 134
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.77832, y: -13.3767395}
+        - {x: 51.77832, y: -11.3767395}
+        - {x: 46.77832, y: -10.3767395}
+        - {x: 45.77832, y: -11.3767395}
+        - {x: 41.77832, y: -11.3767395}
+        - {x: 45.77832, y: -11.3767395}
+        - {x: 50.77832, y: -4.3767395}
+        - {x: 54.77832, y: 2.6232605}
+        - {x: 54.77832, y: 21.62326}
+        - {x: 47.77832, y: 44.62326}
+        - {x: 21.77832, y: 44.62326}
+        - {x: 16.77832, y: 42.62326}
+        - {x: 12.77832, y: 35.62326}
+        - {x: 12.77832, y: 26.62326}
+        - {x: 7.7783203, y: 28.62326}
+        - {x: 12.77832, y: 36.62326}
+        - {x: 10.77832, y: 40.62326}
+        - {x: -8.22168, y: 38.62326}
+        - {x: -18.22168, y: 37.62326}
+        - {x: -45.22168, y: 13.6232605}
+        - {x: -53.22168, y: -0.3767395}
+        - {x: -53.22168, y: -26.37674}
+        - {x: -49.22168, y: -30.37674}
+        - {x: -47.22168, y: -30.37674}
+        - {x: -29.22168, y: -43.37674}
+        - {x: 23.77832, y: -43.37674}
+        - {x: 35.77832, y: -37.37674}
+        - {x: 52.77832, y: -17.37674}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 352
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.68445, y: 46.917053}
+        - {x: 10.684448, y: 46.917053}
+        - {x: 10.684448, y: 37.917053}
+        - {x: 7.6844482, y: 28.917053}
+        - {x: 9.684448, y: 33.917053}
+        - {x: -0.31555176, y: 36.917053}
+        - {x: -25.315552, y: 23.917053}
+        - {x: -52.31555, y: -9.082947}
+        - {x: -52.31555, y: -44.082947}
+        - {x: -43.31555, y: -47.082947}
+        - {x: 35.68445, y: -47.082947}
+        - {x: 42.68445, y: -41.082947}
+        - {x: 52.68445, y: -31.082947}
+        - {x: 52.68445, y: 37.917053}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 352
+        width: 159
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.548096, y: 26.417053}
+        - {x: 42.548096, y: 47.417053}
+        - {x: 39.548096, y: 48.417053}
+        - {x: 14.548096, y: 48.417053}
+        - {x: -63.451904, y: 16.417053}
+        - {x: -63.451904, y: -45.582947}
+        - {x: -32.451904, y: -47.582947}
+        - {x: 62.548096, y: -47.582947}
+        - {x: 62.548096, y: 25.417053}
+        - {x: 60.548096, y: 27.417053}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 352
+        width: 192
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.7876, y: -3.0829468}
+        - {x: 77.7876, y: -0.08294678}
+        - {x: 77.7876, y: 7.917053}
+        - {x: 62.787598, y: 30.917053}
+        - {x: 22.787598, y: 48.917053}
+        - {x: -47.212402, y: 48.917053}
+        - {x: -75.2124, y: 42.917053}
+        - {x: -75.2124, y: -1.0829468}
+        - {x: -53.212402, y: -47.082947}
+        - {x: -24.212402, y: -49.082947}
+        - {x: 39.787598, y: -49.082947}
+        - {x: 71.7876, y: -26.082947}
+        - {x: 73.7876, y: -19.082947}
+        - {x: 63.787598, y: -14.082947}
+      - - {x: -68.2124, y: -8.082947}
+        - {x: -67.2124, y: -11.082947}
+        - {x: -61.212402, y: -11.082947}
+        - {x: -59.212402, y: -9.082947}
+        - {x: -60.212402, y: -6.082947}
+        - {x: -66.2124, y: -6.082947}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 352
+        width: 212
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.8396, y: 55.417053}
+        - {x: -52.8396, y: 55.417053}
+        - {x: -65.8396, y: 53.417053}
+        - {x: -83.8396, y: 50.417053}
+        - {x: -83.8396, y: -54.582947}
+        - {x: 73.1604, y: -54.582947}
+        - {x: 85.1604, y: -46.582947}
+        - {x: 85.1604, y: 11.417053}
+        - {x: -9.8396, y: 53.417053}
+      - - {x: -72.8396, y: -16.582947}
+        - {x: -71.8396, y: -19.582947}
+        - {x: -68.8396, y: -19.582947}
+        - {x: -66.8396, y: -17.582947}
+        - {x: -67.8396, y: -14.582947}
+        - {x: -70.8396, y: -14.582947}
+      - - {x: -71.8396, y: -5.582947}
+        - {x: -73.8396, y: -6.582947}
+        - {x: -73.8396, y: -11.582947}
+        - {x: -66.8396, y: -11.582947}
+        - {x: -65.8396, y: -9.582947}
+        - {x: -65.8396, y: -7.582947}
+        - {x: -66.8396, y: -5.582947}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_74
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 346
+        width: 154
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.821655, y: 41.654266}
+        - {x: 24.821655, y: 34.654266}
+        - {x: 24.821655, y: 32.654266}
+        - {x: 22.821655, y: 29.654266}
+        - {x: 20.821655, y: 24.654266}
+        - {x: 23.821655, y: 34.654266}
+        - {x: 25.821655, y: 36.654266}
+        - {x: 26.821655, y: 38.654266}
+        - {x: 17.821655, y: 48.654266}
+        - {x: -25.178345, y: 48.654266}
+        - {x: -61.178345, y: 36.654266}
+        - {x: -61.178345, y: 23.654266}
+        - {x: -50.178345, y: 9.654266}
+        - {x: -42.178345, y: 8.654266}
+        - {x: -27.178345, y: -2.3457336}
+        - {x: -25.178345, y: -2.3457336}
+        - {x: -23.178345, y: -0.34573364}
+        - {x: -23.178345, y: 0.65426636}
+        - {x: -20.178345, y: 2.6542664}
+        - {x: -23.178345, y: 0.65426636}
+        - {x: -23.178345, y: -1.3457336}
+        - {x: -21.178345, y: -3.3457336}
+        - {x: -31.178345, y: -3.3457336}
+        - {x: -58.178345, y: -8.345734}
+        - {x: -60.178345, y: -9.345734}
+        - {x: -58.178345, y: -16.345734}
+        - {x: -42.178345, y: -19.345734}
+        - {x: -57.178345, y: -35.345734}
+        - {x: -60.178345, y: -46.345734}
+        - {x: 27.821655, y: -46.345734}
+        - {x: 62.821655, y: -34.345734}
+        - {x: 62.821655, y: 30.654266}
+        - {x: 42.821655, y: 41.654266}
+      - - {x: 59.821655, y: 12.654266}
+        - {x: 61.821655, y: 10.654266}
+        - {x: 62.821655, y: 10.654266}
+        - {x: 62.821655, y: 16.654266}
+        - {x: 59.821655, y: 15.654266}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_75
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 427
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_76
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 349
+        width: 133
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.36438, y: 44.535645}
+        - {x: 19.36438, y: 44.535645}
+        - {x: 15.36438, y: 33.535645}
+        - {x: 13.36438, y: 22.535645}
+        - {x: 15.36438, y: 37.535645}
+        - {x: 5.36438, y: 40.535645}
+        - {x: -16.63562, y: 35.535645}
+        - {x: -40.63562, y: 18.535645}
+        - {x: -52.63562, y: -2.4643555}
+        - {x: -52.63562, y: -8.464355}
+        - {x: -47.63562, y: -9.464355}
+        - {x: -52.63562, y: -24.464355}
+        - {x: -52.63562, y: -30.464355}
+        - {x: -29.63562, y: -44.464355}
+        - {x: 17.36438, y: -44.464355}
+        - {x: 33.36438, y: -42.464355}
+        - {x: 53.36438, y: -16.464355}
+        - {x: 53.36438, y: 40.535645}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_77
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 362
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.314697, y: 26.355042}
+        - {x: -27.314697, y: 4.3550415}
+        - {x: -13.314697, y: -21.644958}
+        - {x: -0.31469727, y: -25.644958}
+        - {x: 27.685303, y: -25.644958}
+        - {x: 29.685303, y: -20.644958}
+        - {x: 29.685303, y: 21.355042}
+        - {x: 9.685303, y: 26.355042}
+      - - {x: -28.314697, y: -12.6449585}
+        - {x: -25.314697, y: -11.6449585}
+        - {x: -25.314697, y: -8.6449585}
+        - {x: -27.314697, y: -6.6449585}
+        - {x: -28.314697, y: -6.6449585}
+      - - {x: -28.314697, y: 5.3550415}
+        - {x: -25.314697, y: 6.3550415}
+        - {x: -25.314697, y: 11.3550415}
+        - {x: -27.314697, y: 13.3550415}
+        - {x: -28.314697, y: 13.3550415}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_78
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 404
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_79
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 407
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_80
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 404
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_81
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 372
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_82
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 372
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -10.5}
+        - {x: 22, y: -5.5}
+        - {x: 22, y: 5.5}
+        - {x: 17, y: 14.5}
+        - {x: 3, y: 16.5}
+        - {x: -15, y: 16.5}
+        - {x: -17, y: 15.5}
+        - {x: -17, y: -1.5}
+        - {x: -14, y: -9.5}
+        - {x: 2, y: -17.5}
+        - {x: 5, y: -15.5}
+        - {x: 11, y: -15.5}
+        - {x: 12, y: -12.5}
+        - {x: 17, y: -12.5}
+      - - {x: -13, y: 2.5}
+        - {x: -10, y: 3.5}
+        - {x: -10, y: 6.5}
+        - {x: -13, y: 7.5}
+        - {x: -15, y: 5.5}
+      - - {x: -20, y: 6.5}
+        - {x: -17, y: 7.5}
+        - {x: -17, y: 10.5}
+        - {x: -20, y: 11.5}
+        - {x: -22, y: 9.5}
+      - - {x: 15, y: 17.5}
+        - {x: 14, y: 16.5}
+        - {x: 15, y: 11.5}
+        - {x: 17, y: 6.5}
+        - {x: 20, y: 6.5}
+        - {x: 22, y: 7.5}
+        - {x: 22, y: 9.5}
+        - {x: 19, y: 17.5}
+      - - {x: -4, y: 15.5}
+        - {x: -3, y: 12.5}
+        - {x: 0, y: 12.5}
+        - {x: 2, y: 14.5}
+        - {x: 1, y: 17.5}
+        - {x: -2, y: 17.5}
+      - - {x: 12, y: 15.5}
+        - {x: 12, y: 17.5}
+        - {x: 7, y: 17.5}
+        - {x: 9, y: 14.5}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_83
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 205
+        width: 131
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.26279, y: -31.271317}
+        - {x: 38.26279, y: -30.271317}
+        - {x: 53.26279, y: -15.271317}
+        - {x: 53.26279, y: 30.728683}
+        - {x: 42.26279, y: 19.728683}
+        - {x: 40.26279, y: 15.728683}
+        - {x: 37.26279, y: 18.728683}
+        - {x: 45.26279, y: 22.728683}
+        - {x: 48.26279, y: 26.728683}
+        - {x: 44.26279, y: 40.728683}
+        - {x: 39.26279, y: 46.728683}
+        - {x: 19.26279, y: 46.728683}
+        - {x: -24.73721, y: 31.728683}
+        - {x: -50.73721, y: -10.271317}
+        - {x: -50.73721, y: -23.271317}
+        - {x: -47.73721, y: -27.271317}
+        - {x: -50.73721, y: -35.271317}
+        - {x: -48.73721, y: -43.271317}
+        - {x: -27.73721, y: -45.271317}
+        - {x: 37.26279, y: -45.271317}
+        - {x: 45.26279, y: -39.271317}
+        - {x: 44.26279, y: -34.271317}
+        - {x: 41.26279, y: -32.271317}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_84
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 205
+        width: 141
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.85814, y: 23.228683}
+        - {x: 40.85814, y: 18.228683}
+        - {x: 44.85814, y: 28.228683}
+        - {x: 47.85814, y: 43.228683}
+        - {x: 38.85814, y: 47.228683}
+        - {x: 3.858139, y: 47.228683}
+        - {x: -26.141861, y: 28.228683}
+        - {x: -56.14186, y: -9.771317}
+        - {x: -56.14186, y: -21.771317}
+        - {x: -55.14186, y: -22.771317}
+        - {x: -51.14186, y: -22.771317}
+        - {x: -54.14186, y: -26.771317}
+        - {x: -52.14186, y: -33.771317}
+        - {x: -30.141861, y: -44.771317}
+        - {x: 55.85814, y: -44.771317}
+        - {x: 55.85814, y: 22.228683}
+        - {x: 50.85814, y: 24.228683}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_85
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 208
+        width: 129
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.026367, y: 46.610077}
+        - {x: -50.026367, y: 25.610077}
+        - {x: -50.026367, y: -46.389923}
+        - {x: 52.973633, y: -46.389923}
+        - {x: 52.973633, y: 21.610077}
+        - {x: 40.973633, y: 46.610077}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_86
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 205
+        width: 152
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.651154, y: 45.228683}
+        - {x: 9.651154, y: 37.228683}
+        - {x: 7.6511536, y: 27.228683}
+        - {x: 8.651154, y: 20.228683}
+        - {x: 2.6511536, y: 36.228683}
+        - {x: -8.348846, y: 45.228683}
+        - {x: -60.348846, y: 45.228683}
+        - {x: -60.348846, y: -5.7713165}
+        - {x: -48.348846, y: -12.771317}
+        - {x: -28.348846, y: -18.771317}
+        - {x: -31.348846, y: -31.771317}
+        - {x: -28.348846, y: -42.771317}
+        - {x: 51.651154, y: -42.771317}
+        - {x: 61.651154, y: -15.771317}
+        - {x: 61.651154, y: 42.228683}
+        - {x: 55.651154, y: 45.228683}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_87
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 180
+        width: 168
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.348816, y: 21.883728}
+        - {x: 39.348816, y: 17.883728}
+        - {x: 47.348816, y: 19.883728}
+        - {x: 50.348816, y: 21.883728}
+        - {x: 61.348816, y: 37.883728}
+        - {x: 61.348816, y: 40.883728}
+        - {x: 67.348816, y: 49.883728}
+        - {x: 67.348816, y: 58.883728}
+        - {x: -66.651184, y: 58.883728}
+        - {x: -66.651184, y: 44.883728}
+        - {x: -52.651184, y: 26.883728}
+        - {x: -49.651184, y: 25.883728}
+        - {x: -46.651184, y: 25.883728}
+        - {x: -59.651184, y: 13.883728}
+        - {x: -61.651184, y: -14.116272}
+        - {x: -3.651184, y: -57.116272}
+        - {x: 41.348816, y: -57.116272}
+        - {x: 56.348816, y: -40.116272}
+        - {x: 67.348816, y: 14.883728}
+        - {x: 67.348816, y: 22.883728}
+        - {x: 64.348816, y: 23.883728}
+      - - {x: -60.651184, y: 13.883728}
+        - {x: -59.651184, y: 10.883728}
+        - {x: -56.651184, y: 10.883728}
+        - {x: -54.651184, y: 12.883728}
+        - {x: -55.651184, y: 15.883728}
+        - {x: -58.651184, y: 15.883728}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_88
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 168
+        width: 187
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.09766, y: 59.35814}
+        - {x: -73.09766, y: 52.35814}
+        - {x: -73.09766, y: 45.35814}
+        - {x: -72.09766, y: 44.35814}
+        - {x: -66.09766, y: 44.35814}
+        - {x: -55.097656, y: 22.358139}
+        - {x: -50.097656, y: 21.358139}
+        - {x: -47.097656, y: 22.358139}
+        - {x: -35.097656, y: 15.358139}
+        - {x: -73.09766, y: 18.358139}
+        - {x: -52.097656, y: -27.641861}
+        - {x: -11.097656, y: -58.64186}
+        - {x: 55.902344, y: -58.64186}
+        - {x: 75.90234, y: -39.64186}
+        - {x: 75.90234, y: 59.35814}
+      - - {x: 7.9023438, y: -36.64186}
+        - {x: 9.902344, y: -38.64186}
+        - {x: 12.902344, y: -37.64186}
+        - {x: 12.902344, y: -33.64186}
+        - {x: 10.902344, y: -31.641861}
+        - {x: 7.9023438, y: -32.64186}
+      - - {x: -69.09766, y: 9.358139}
+        - {x: -67.09766, y: 7.358139}
+        - {x: -64.09766, y: 8.358139}
+        - {x: -64.09766, y: 11.358139}
+        - {x: -66.09766, y: 13.358139}
+        - {x: -69.09766, y: 12.358139}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_89
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 180
+        width: 171
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.249634, y: 17.383728}
+        - {x: 54.249634, y: 17.383728}
+        - {x: 57.249634, y: 18.383728}
+        - {x: 68.24963, y: 23.383728}
+        - {x: 68.24963, y: 40.383728}
+        - {x: 65.24963, y: 45.383728}
+        - {x: 51.249634, y: 53.383728}
+        - {x: -20.750366, y: 53.383728}
+        - {x: -67.75037, y: 35.383728}
+        - {x: -67.75037, y: 20.383728}
+        - {x: -63.750366, y: 19.383728}
+        - {x: -47.750366, y: 6.383728}
+        - {x: -43.750366, y: 4.383728}
+        - {x: -57.750366, y: 0.38372803}
+        - {x: -66.75037, y: -4.616272}
+        - {x: -65.75037, y: -8.616272}
+        - {x: -43.750366, y: -51.616272}
+        - {x: 68.24963, y: -51.616272}
+        - {x: 68.24963, y: 14.383728}
+        - {x: 61.249634, y: 17.383728}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_90
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 220
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.0946045, y: 22.13565}
+        - {x: -21.094604, y: 4.1356506}
+        - {x: -21.094604, y: -14.864349}
+        - {x: -9.0946045, y: -18.86435}
+        - {x: -3.0946045, y: -19.86435}
+        - {x: 22.905396, y: -19.86435}
+        - {x: 23.905396, y: -18.86435}
+        - {x: 23.905396, y: 21.13565}
+        - {x: 22.905396, y: 22.13565}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_91
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 223
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.085327, y: 20.01706}
+        - {x: -14.085327, y: 14.017059}
+        - {x: -22.085327, y: -7.9829407}
+        - {x: -22.085327, y: -17.98294}
+        - {x: -19.085327, y: -19.98294}
+        - {x: 23.914673, y: -19.98294}
+        - {x: 23.914673, y: 13.017059}
+        - {x: 18.914673, y: 20.01706}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_92
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 220
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_93
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 220
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.424072, y: 21.63565}
+        - {x: -4.5759277, y: 21.63565}
+        - {x: -22.575928, y: 4.6356506}
+        - {x: -22.575928, y: -19.36435}
+        - {x: 21.424072, y: -19.36435}
+        - {x: 24.424072, y: -12.364349}
+        - {x: 24.424072, y: 14.635651}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_94
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 220
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.185303, y: 22.13565}
+        - {x: -18.185303, y: 14.135651}
+        - {x: -23.185303, y: -0.86434937}
+        - {x: -23.185303, y: -17.86435}
+        - {x: -19.185303, y: -19.86435}
+        - {x: 16.814697, y: -19.86435}
+        - {x: 22.814697, y: -2.8643494}
+        - {x: 22.814697, y: 22.13565}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_95
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 220
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_96
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 198
+        width: 154
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.01709, y: 43.17209}
+        - {x: -61.01709, y: 40.17209}
+        - {x: -61.01709, y: 28.172089}
+        - {x: -44.01709, y: 9.172089}
+        - {x: -40.01709, y: 10.172089}
+        - {x: -49.01709, y: 7.1720886}
+        - {x: -53.01709, y: 1.1720886}
+        - {x: -40.01709, y: -42.82791}
+        - {x: 54.98291, y: -42.82791}
+        - {x: 62.98291, y: -14.827911}
+        - {x: 62.98291, y: 43.17209}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_97
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 135
+        width: 171
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.04187, y: 51.66279}
+        - {x: 7.04187, y: 46.66279}
+        - {x: 4.04187, y: 53.66279}
+        - {x: -18.95813, y: 69.66279}
+        - {x: -31.95813, y: 71.66279}
+        - {x: -67.95813, y: 71.66279}
+        - {x: -67.95813, y: 12.662788}
+        - {x: -8.95813, y: -57.33721}
+        - {x: 13.04187, y: -71.33721}
+        - {x: 61.04187, y: -71.33721}
+        - {x: 68.04187, y: -52.33721}
+        - {x: 68.04187, y: 71.66279}
+        - {x: 26.04187, y: 71.66279}
+      - - {x: -61.95813, y: 23.662788}
+        - {x: -55.95813, y: 23.662788}
+        - {x: -55.95813, y: 28.662788}
+        - {x: -56.95813, y: 29.662788}
+        - {x: -61.95813, y: 29.662788}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_98
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 120
+        width: 184
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.296875, y: 74.25581}
+        - {x: -73.296875, y: 66.25581}
+        - {x: -73.296875, y: 60.255814}
+        - {x: -63.296875, y: 60.255814}
+        - {x: -55.296875, y: 38.255814}
+        - {x: -48.296875, y: 35.255814}
+        - {x: -68.296875, y: 27.255814}
+        - {x: -52.296875, y: 8.255814}
+        - {x: -33.296875, y: 7.2558136}
+        - {x: -55.296875, y: -5.7441864}
+        - {x: -54.296875, y: -15.744186}
+        - {x: 20.703125, y: -69.74419}
+        - {x: 29.703125, y: -73.74419}
+        - {x: 55.703125, y: -73.74419}
+        - {x: 69.703125, y: -58.744186}
+        - {x: 73.703125, y: 4.2558136}
+        - {x: 73.703125, y: 74.25581}
+      - - {x: -69.296875, y: 29.255814}
+        - {x: -70.296875, y: 27.255814}
+        - {x: -70.296875, y: 24.255814}
+        - {x: -68.296875, y: 23.255814}
+        - {x: -65.296875, y: 23.255814}
+        - {x: -64.296875, y: 25.255814}
+        - {x: -64.296875, y: 28.255814}
+        - {x: -66.296875, y: 29.255814}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_99
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 127
+        width: 169
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.486084, y: 70.8124}
+        - {x: -67.486084, y: 43.8124}
+        - {x: -67.486084, y: 31.8124}
+        - {x: -48.486084, y: 22.8124}
+        - {x: -44.486084, y: 21.8124}
+        - {x: -58.486084, y: 16.8124}
+        - {x: -67.486084, y: 11.812401}
+        - {x: -66.486084, y: 7.812401}
+        - {x: -24.486084, y: -0.18759918}
+        - {x: -20.486084, y: 0.8124008}
+        - {x: -29.486084, y: -7.187599}
+        - {x: -32.486084, y: -17.1876}
+        - {x: -35.486084, y: -70.1876}
+        - {x: 67.513916, y: -70.1876}
+        - {x: 67.513916, y: 69.8124}
+        - {x: 65.513916, y: 70.8124}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_100
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 16
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.3031, y: -27.799225}
+        - {x: 45.3031, y: 1.2007751}
+        - {x: 40.3031, y: 30.200775}
+        - {x: 38.3031, y: 31.200775}
+        - {x: 31.3031, y: 38.200775}
+        - {x: 26.3031, y: 39.200775}
+        - {x: 21.3031, y: 35.200775}
+        - {x: 20.3031, y: 28.200775}
+        - {x: 18.3031, y: 42.200775}
+        - {x: 15.303101, y: 51.200775}
+        - {x: -4.6968994, y: 51.200775}
+        - {x: -38.6969, y: 14.200775}
+        - {x: -48.6969, y: -19.799225}
+        - {x: -48.6969, y: -35.799225}
+        - {x: -45.6969, y: -34.799225}
+        - {x: -41.6969, y: -31.799225}
+        - {x: -47.6969, y: -42.799225}
+        - {x: -48.6969, y: -47.799225}
+        - {x: -48.6969, y: -49.799225}
+        - {x: 41.3031, y: -49.799225}
+        - {x: 51.3031, y: -38.799225}
+        - {x: 51.3031, y: -30.799225}
+        - {x: 49.3031, y: -28.799225}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_101
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 137
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_102
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 140
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_103
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 16
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.38684, y: 52.700775}
+        - {x: -46.38684, y: 36.700775}
+        - {x: -46.38684, y: -13.299225}
+        - {x: -44.38684, y: -13.299225}
+        - {x: -46.38684, y: -22.299225}
+        - {x: -46.38684, y: -50.299225}
+        - {x: 45.61316, y: -50.299225}
+        - {x: 45.61316, y: 41.700775}
+        - {x: 40.61316, y: 52.700775}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_104
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 9
+        width: 119
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.821655, y: -1.3558121}
+        - {x: 34.821655, y: -4.355812}
+        - {x: 35.821655, y: -1.3558121}
+        - {x: 40.821655, y: -1.3558121}
+        - {x: 42.821655, y: 0.6441879}
+        - {x: 42.821655, y: 7.644188}
+        - {x: 40.821655, y: 9.644188}
+        - {x: 46.821655, y: 22.644188}
+        - {x: 47.821655, y: 26.644188}
+        - {x: 47.821655, y: 42.644188}
+        - {x: 19.821655, y: 53.644188}
+        - {x: 16.821655, y: 47.644188}
+        - {x: 15.821655, y: 42.644188}
+        - {x: 14.821655, y: 44.644188}
+        - {x: 16.821655, y: 45.644188}
+        - {x: 16.821655, y: 49.644188}
+        - {x: 14.821655, y: 51.644188}
+        - {x: 12.821655, y: 51.644188}
+        - {x: 10.821655, y: 49.644188}
+        - {x: 10.821655, y: 47.644188}
+        - {x: 10.821655, y: 50.644188}
+        - {x: 9.821655, y: 53.644188}
+        - {x: -13.178345, y: 53.644188}
+        - {x: -47.178345, y: 27.644188}
+        - {x: -47.178345, y: -50.355812}
+        - {x: -46.178345, y: -54.355812}
+        - {x: 47.821655, y: -54.355812}
+        - {x: 47.821655, y: -1.3558121}
+      - - {x: 21.821655, y: 42.644188}
+        - {x: 22.821655, y: 39.644188}
+        - {x: 25.821655, y: 39.644188}
+        - {x: 27.821655, y: 41.644188}
+        - {x: 26.821655, y: 44.644188}
+        - {x: 23.821655, y: 44.644188}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_105
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 17
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.132568, y: 44.494576}
+        - {x: 8.132568, y: 42.494576}
+        - {x: 9.132568, y: 39.494576}
+        - {x: 4.1325684, y: 32.494576}
+        - {x: 4.1325684, y: 29.494576}
+        - {x: 6.1325684, y: 27.494576}
+        - {x: 6.1325684, y: 21.494576}
+        - {x: 4.1325684, y: 28.494576}
+        - {x: 4.1325684, y: 30.494576}
+        - {x: 3.1325684, y: 36.494576}
+        - {x: -25.867432, y: 41.494576}
+        - {x: -40.86743, y: 9.4945755}
+        - {x: -40.86743, y: -43.505424}
+        - {x: 36.13257, y: -43.505424}
+        - {x: 43.13257, y: -37.505424}
+        - {x: 43.13257, y: 33.494576}
+        - {x: 29.132568, y: 44.494576}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_106
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 17
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.13568, y: 23.494576}
+        - {x: 27.135681, y: 44.494576}
+        - {x: 24.135681, y: 48.494576}
+        - {x: 13.135681, y: 48.494576}
+        - {x: -4.864319, y: 39.494576}
+        - {x: -32.86432, y: 17.494576}
+        - {x: -46.86432, y: -17.505424}
+        - {x: -46.86432, y: -32.505424}
+        - {x: -45.86432, y: -35.505424}
+        - {x: -41.86432, y: -32.505424}
+        - {x: -38.86432, y: -25.505424}
+        - {x: -37.86432, y: -21.505424}
+        - {x: -38.86432, y: -25.505424}
+        - {x: -38.86432, y: -29.505424}
+        - {x: -46.86432, y: -40.505424}
+        - {x: -46.86432, y: -47.505424}
+        - {x: 45.13568, y: -47.505424}
+        - {x: 49.13568, y: -42.505424}
+        - {x: 49.13568, y: 27.494576}
+        - {x: 40.13568, y: 29.494576}
+      - - {x: 0.13568115, y: 48.494576}
+        - {x: -0.86431885, y: 45.494576}
+        - {x: -0.86431885, y: 41.494576}
+        - {x: 4.135681, y: 41.494576}
+        - {x: 10.135681, y: 44.494576}
+        - {x: 11.135681, y: 47.494576}
+        - {x: 11.135681, y: 48.494576}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_107
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 19
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.700012, y: 20.082169}
+        - {x: 30.700012, y: 17.082169}
+        - {x: 34.700012, y: 42.08217}
+        - {x: 26.700012, y: 43.08217}
+        - {x: -2.2999878, y: 43.08217}
+        - {x: -5.299988, y: 39.08217}
+        - {x: -3.2999878, y: 33.08217}
+        - {x: -4.299988, y: 27.082169}
+        - {x: -4.299988, y: 25.082169}
+        - {x: -4.299988, y: 32.08217}
+        - {x: -6.299988, y: 35.08217}
+        - {x: -31.299988, y: 32.08217}
+        - {x: -42.299988, y: 11.082169}
+        - {x: -42.299988, y: -41.91783}
+        - {x: -36.299988, y: -42.91783}
+        - {x: 22.700012, y: -42.91783}
+        - {x: 28.700012, y: -38.91783}
+        - {x: 41.700012, y: -22.917831}
+        - {x: 41.700012, y: 18.082169}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_108
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 9
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5263672, y: 50.644188}
+        - {x: -11.526367, y: 37.644188}
+        - {x: -9.526367, y: 30.644188}
+        - {x: -7.526367, y: 17.644188}
+        - {x: -4.526367, y: 16.644188}
+        - {x: -6.526367, y: 15.644188}
+        - {x: -11.526367, y: 20.644188}
+        - {x: -25.526367, y: 25.644188}
+        - {x: -40.526367, y: 21.644188}
+        - {x: -48.526367, y: 12.644188}
+        - {x: -49.526367, y: 8.644188}
+        - {x: -48.526367, y: 5.644188}
+        - {x: -47.526367, y: -19.355812}
+        - {x: -40.526367, y: -23.355812}
+        - {x: -29.526367, y: -27.355812}
+        - {x: -41.526367, y: -32.355812}
+        - {x: -45.526367, y: -36.355812}
+        - {x: -41.526367, y: -50.355812}
+        - {x: 31.473633, y: -50.355812}
+        - {x: 51.473633, y: -23.355812}
+        - {x: 51.473633, y: 23.644188}
+        - {x: 12.473633, y: 50.644188}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_109
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 125
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_110
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 131
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.77752, y: 12.613178}
+        - {x: 45.77752, y: 19.613178}
+        - {x: 44.77752, y: 36.61318}
+        - {x: 32.77752, y: 44.61318}
+        - {x: 20.77752, y: 44.61318}
+        - {x: -25.22248, y: 33.61318}
+        - {x: -52.22248, y: -1.3868217}
+        - {x: -52.22248, y: -44.38682}
+        - {x: 32.77752, y: -44.38682}
+        - {x: 52.77752, y: -27.386822}
+        - {x: 52.77752, y: 13.613178}
+        - {x: 48.77752, y: 12.613178}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_111
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 16
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.924026, y: 16.700775}
+        - {x: 41.924026, y: 20.700775}
+        - {x: 45.924026, y: 26.700775}
+        - {x: 45.924026, y: 32.700775}
+        - {x: 30.924026, y: 44.700775}
+        - {x: -16.075974, y: 44.700775}
+        - {x: -28.075974, y: 42.700775}
+        - {x: -43.075974, y: 5.700775}
+        - {x: -43.075974, y: -42.299225}
+        - {x: 36.924026, y: -42.299225}
+        - {x: 45.924026, y: -25.299225}
+        - {x: 45.924026, y: 16.700775}
+        - {x: 39.924026, y: 18.700775}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_112
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 16
+        width: 119
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1535034, y: 44.700775}
+        - {x: -38.153503, y: 17.700775}
+        - {x: -46.153503, y: -19.299225}
+        - {x: -46.153503, y: -42.299225}
+        - {x: 48.846497, y: -42.299225}
+        - {x: 48.846497, y: 33.700775}
+        - {x: 35.846497, y: 44.700775}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_113
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 14
+        width: 111
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.213135, y: 40.61318}
+        - {x: -6.786865, y: 40.61318}
+        - {x: -43.786865, y: 5.6131783}
+        - {x: -43.786865, y: -29.386822}
+        - {x: -30.786865, y: -40.38682}
+        - {x: 31.213135, y: -40.38682}
+        - {x: 45.213135, y: -33.38682}
+        - {x: 45.213135, y: 1.6131783}
+        - {x: 42.213135, y: 12.613178}
+      - - {x: -12.786865, y: 22.613178}
+        - {x: -10.786865, y: 20.613178}
+        - {x: -7.786865, y: 21.613178}
+        - {x: -7.786865, y: 24.613178}
+        - {x: -9.786865, y: 26.613178}
+        - {x: -12.786865, y: 25.613178}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_114
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 87
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_115
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1
+        width: 202
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.141113, y: -26.2062}
+        - {x: -24.141113, y: -25.2062}
+        - {x: -26.141113, y: -30.2062}
+        - {x: -26.141113, y: -35.2062}
+        - {x: -24.141113, y: -40.2062}
+        - {x: -14.141113, y: -40.2062}
+        - {x: -3.1411133, y: -39.2062}
+        - {x: -1.1411133, y: -35.2062}
+        - {x: -1.1411133, y: -30.2062}
+        - {x: 39.858887, y: -40.2062}
+        - {x: 78.85889, y: -40.2062}
+        - {x: 80.85889, y: -38.2062}
+        - {x: 80.85889, y: 41.7938}
+        - {x: 79.85889, y: 42.7938}
+        - {x: -23.141113, y: 42.7938}
+        - {x: -80.14111, y: 2.7938004}
+        - {x: -80.14111, y: -39.2062}
+        - {x: -77.14111, y: -40.2062}
+        - {x: -51.141113, y: -40.2062}
+        - {x: -29.141113, y: -39.2062}
+        - {x: -27.141113, y: -35.2062}
+        - {x: -27.141113, y: -30.2062}
+        - {x: -30.141113, y: -27.2062}
+      - - {x: -0.14111328, y: -25.2062}
+        - {x: -1.1411133, y: -29.2062}
+        - {x: -1.1411133, y: -38.2062}
+        - {x: 37.858887, y: -38.2062}
+        - {x: 37.858887, y: -30.2062}
+        - {x: 28.858887, y: -25.2062}
+      - - {x: 21.858887, y: 14.7938}
+        - {x: 21.858887, y: 1.7938004}
+        - {x: 26.858887, y: -1.2061996}
+        - {x: 35.858887, y: -1.2061996}
+        - {x: 37.858887, y: 3.7938004}
+        - {x: 37.858887, y: 12.7938}
+        - {x: 30.858887, y: 14.7938}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_116
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 16
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.691528, y: 28.200775}
+        - {x: -39.69153, y: 6.200775}
+        - {x: -39.69153, y: -26.799225}
+        - {x: 40.30847, y: -26.799225}
+        - {x: 40.30847, y: 12.200775}
+        - {x: 6.3084717, y: 28.200775}
+    - name: PC Computer - Heroes of Might and Magic 3 - Red Dragon_117
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 16
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.36743, y: -9.799225}
+        - {x: 36.36743, y: 9.200775}
+        - {x: 29.367432, y: 13.200775}
+        - {x: 13.367432, y: 18.200775}
+        - {x: -23.632568, y: 18.200775}
+        - {x: -35.63257, y: 10.200775}
+        - {x: -35.63257, y: -11.799225}
+        - {x: -32.63257, y: -16.799225}
+        - {x: -5.6325684, y: -16.799225}
+        - {x: -4.6325684, y: -14.799225}
+        - {x: 1.3674316, y: -16.799225}
+        - {x: 27.367432, y: -16.799225}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
